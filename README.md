@@ -7,7 +7,7 @@
 
 
 ## 🚀 About Me
-👨‍💻I'm a third-year student with a passion for exploring the intersection of technology, data science, machine learning and storytelling 🧑‍🎓
+👨‍💻I'm a third-year student with a passion for exploring the intersection of technology, data science, machine learning, and storytelling. 
 
 🔍I'm currently working on areas like deep learning and Generative AI. 
 
